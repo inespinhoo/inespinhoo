@@ -8,11 +8,11 @@ If you need someone who can take scattered numbers and turn them into **actionab
 
 ## 💡 Why work with me?
 
-- 📊 I don't just read data — I **tell the story** it's hiding
-- ⚡ I build dashboards that answer the question before it's even asked
-- 🎯 I focus on business outcomes, not just clean code
+-  I don't just read data — I **tell the story** it's hiding
+-  I build dashboards that answer the question before it's even asked
+-  I focus on business outcomes, not just clean code
 
-## 🛠️ Tools I master
+## Tools I master
 
 | Area | Tools |
 |---|---|
@@ -22,7 +22,7 @@ If you need someone who can take scattered numbers and turn them into **actionab
 | Agile analysis | Excel |
 | Version control | Git |
 
-## 🚀 What I'm working on right now
+## What I'm working on right now
 
 -  **SQL Portfolio** — real-world data analysis cases
 -  **Power BI Dashboards** — visualizations that tell stories, not just numbers
