@@ -1,5 +1,4 @@
-https://capsule-render.vercel.app/api?type=soft&height=300&color=gradient&text=Inês%20Fernandes&textBg=false&animation=fadeIn
-
+![banner](https://capsule-render.vercel.app/api?type=soft&height=300&color=gradient&text=In%C3%AAs%20Fernandes&textBg=false&animation=fadeIn)
 
 # Hi there, I'm Inês Fernandes 👋
 
