@@ -1,24 +1,37 @@
-![banner](https://capsule-render.vercel.app/api?type=soft&height=300&color=gradient&text=In%C3%AAs%20Fernandes&textBg=false&animation=fadeIn)
+# Hi, I'm Inês Fernandes 👋
 
-# Hi there, I'm Inês Fernandes 👋
+### I turn raw data into decisions that grow your business.
 
-## About Me
-Data Analyst passionate about transforming data into business insights.
+If you need someone who can take scattered numbers and turn them into **actionable insights**, you're in the right place. I'm a Data Analyst, currently specializing in Data Science & Analytics, and my focus is simple: **help teams decide better, faster.**
 
-🎓 Data Science & Analytics Student
+---
 
-## Skills
-- SQL
-- Power BI
-- Python
-- Excel
-- Git
+## 💡 Why work with me?
 
- ## Currently working on: 
-- SQL Portfolio
-- Power BI Dashboards
+- 📊 I don't just read data — I **tell the story** it's hiding
+- ⚡ I build dashboards that answer the question before it's even asked
+- 🎯 I focus on business outcomes, not just clean code
 
-## Connect with me
+## 🛠️ Tools I master
+
+| Area | Tools |
+|---|---|
+| Data querying & modeling | SQL |
+| Visualization & reporting | Power BI |
+| Automation & analysis | Python |
+| Agile analysis | Excel |
+| Version control | Git |
+
+## 🚀 What I'm working on right now
+
+-  **SQL Portfolio** — real-world data analysis cases
+-  **Power BI Dashboards** — visualizations that tell stories, not just numbers
+
+> Every project I build proves one thing: well-handled data is worth real money.
+
+## 🤝 Let's talk
+
+I'm open to new opportunities and collaborations. If you're looking for someone to bring clarity to your data, just reach out.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/in%C3%AAs-fernandes-078848281/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ines.p.fernandes7@gmail.com)
