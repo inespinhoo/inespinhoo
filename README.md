@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there, I'm Inês Fernandes 👋
 
-<!--
-**inespinhoo/inespinhoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+Data Analyst passionate about transforming data into business insights.
 
-Here are some ideas to get you started:
+🎓 Data Science & Analytics Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- SQL
+- Power BI
+- Python
+- Excel
+- Git
+
+ ## Currently working on: 
+- SQL Portfolio
+- Power BI Dashboards
+
+## Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/in%C3%AAs-fernandes-078848281/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ines.p.fernandes7@gmail.com)
