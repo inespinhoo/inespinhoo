@@ -9,7 +9,6 @@ If you need someone who can take scattered numbers and turn them into **actionab
 ## 💡 Why work with me?
 
 -  I don't just read data — I **tell the story** it's hiding
--  I build dashboards that answer the question before it's even asked
 -  I focus on business outcomes, not just clean code
 
 ## Tools I master
